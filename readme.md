@@ -7,3 +7,5 @@
 * Student repositories
 * Github classroom
 * Permission
+* Exercises
+* Automated testing
